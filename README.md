@@ -1,6 +1,7 @@
 # Clone-one-page-shopee
 Demo:  https://asidsdamad1.github.io/Clone-one-page-shopee/
 
-![image](https://user-images.githubusercontent.com/71586417/119813256-3fc39c00-bf13-11eb-8651-64d55471b7fd.png)
+![Capture2](https://user-images.githubusercontent.com/71586417/119814017-24a55c00-bf14-11eb-8f44-bcd5052ca425.PNG)
+
 
 
